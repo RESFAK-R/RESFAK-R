@@ -4,17 +4,24 @@ Senior Software Engineer focused on AI agents, secure enterprise platforms, and 
 
 Currently building:
 
-- Permission-aware LLM agents with LangChain, LanGraph, LangFuse, MCP, RAG and tool-calling 
+- Permission-aware LLM agents with LangChain, LangGraph, LangFuse, MCP, RAG and tool-calling
 - Local-first finance tools where sensitive data stays on the machine
 - Automotive and workshop platforms
 - Personal agent infrastructure: Discord agents, model routing, TTS/STT and scheduled briefings
 
 
-Some AI agent and enterprise platform work is private or client-confidential; public repos focus on sanitized projects that can be shared safely.
+> **Note:** most of my professional work lives on my company's GitHub profile and is private or client-confidential, so it can't be shared here. The public repos on this profile are personal projects that can be shared safely.
 
 ## Stack
 
-TypeScript, Vue/Nuxt, Next.js, React, Python/FastAPI, PostgreSQL/Supabase, Azure, Docker, LangChain and MCP.
+| Area | Technologies |
+| --- | --- |
+| **Languages** | TypeScript, Python |
+| **Frontend** | Vue / Nuxt, Next.js, React |
+| **Backend** | FastAPI |
+| **AI / LLM** | LangChain, LangGraph, LangFuse, MCP, RAG |
+| **Data** | PostgreSQL, Supabase |
+| **Cloud & DevOps** | Azure, Docker |
 
 Based in Italy.
 
