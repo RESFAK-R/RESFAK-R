@@ -4,9 +4,9 @@ Senior Software Engineer focused on AI agents, secure enterprise platforms, and 
 
 Currently building:
 
-- Permission-aware LLM agents with LangChain, Azure OpenAI, MCP, RAG and tool-calling
+- Permission-aware LLM agents with LangChain, LanGraph, LangFuse, MCP, RAG and tool-calling 
 - Local-first finance tools where sensitive data stays on the machine
-- Automotive and workshop platforms with Nuxt, Vue, TypeScript and Supabase
+- Automotive and workshop platforms
 - Personal agent infrastructure: Discord agents, model routing, TTS/STT and scheduled briefings
 
 
@@ -16,6 +16,6 @@ Some AI agent and enterprise platform work is private or client-confidential; pu
 
 TypeScript, Vue/Nuxt, Next.js, React, Python/FastAPI, PostgreSQL/Supabase, Azure, Docker, LangChain and MCP.
 
-Based in Milan, Italy. Open to relocation across Switzerland.
+Based in Italy.
 
 [LinkedIn](https://www.linkedin.com/in/fares-neghiz-09140915a/) | [Email](mailto:fares.lavoro98@gmail.com)
