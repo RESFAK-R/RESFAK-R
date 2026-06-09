@@ -16,12 +16,12 @@ Currently building:
 
 | Area | Technologies |
 | --- | --- |
-| **Languages** | TypeScript, Python |
-| **Frontend** | Vue / Nuxt, Next.js, React |
-| **Backend** | FastAPI |
-| **AI / LLM** | LangChain, LangGraph, LangFuse, MCP, RAG |
-| **Data** | PostgreSQL, Supabase |
-| **Cloud & DevOps** | Azure, Docker |
+| **Languages** | TypeScript, Python, C# |
+| **Frontend** | Vue / Nuxt, React / Next, Tailwind |
+| **Backend** | FastAPI, Flask, C#, .NET, Java |
+| **AI / LLM** | LangChain, LangGraph, LangFuse, MCP, RAG, CrewAI |
+| **Data** | PostgreSQL, Supabase, SqlServer, LiteSQL,  |
+| **Cloud & DevOps** | Azure, GCP, Docker, Kubernetes |
 
 Based in Italy.
 
