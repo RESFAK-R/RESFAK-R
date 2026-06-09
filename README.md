@@ -9,10 +9,6 @@ Currently building:
 - Automotive and workshop platforms with Nuxt, Vue, TypeScript and Supabase
 - Personal agent infrastructure: Discord agents, model routing, TTS/STT and scheduled briefings
 
-## Public Projects
-
-- [backoffice-officina](https://github.com/RESFAK-R/backoffice-officina) - Workshop-management backoffice for customers, vehicles, work orders, invoicing, appointments and inventory.
-- [kubera-clone](https://github.com/RESFAK-R/kubera-clone) - Wealth-tracking dashboard with net worth, assets, debts, projections and PDF reporting.
 
 Some AI agent and enterprise platform work is private or client-confidential; public repos focus on sanitized projects that can be shared safely.
 
